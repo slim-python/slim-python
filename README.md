@@ -5,7 +5,7 @@
 - 📝 I’m a tech writer and  [tech youtuber](https://www.youtube.com/channel/UCPZwDa33EL_UK3VDZGw_9rg) my work has been published on [Geeksforgeeks](https://www.geeksforgeeks.org/how-to-create-a-meeting-with-zoom-api-in-python/), [Google developers](https://devlibrary.withgoogle.com/products/firebase) and [Hackernoon](https://hackernoon.com/advanced-linux-shell-with-ai-powered-features-g52d35bk) etc
 - 🔭 I’m currently working for [StockDaddy](https://stockdaddy.in/) as a full stack developer.
 
-- 🌱 I’m currently learning **Typescript.**
+- 🌱 I’m currently learning **Typescript** and  **Solana.**
 
 - 👯 I’m looking to collaborate on **any projects that use Python and Javascript**
 
