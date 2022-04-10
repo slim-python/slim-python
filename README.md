@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Typescript** and  **Solana.**
 
+- ❤️‍🔥 Two of my recent made small projects are [Css color filter generator](https://css-color-filter-generator.netlify.app/) and [Vue Dashboard](https://ejziqk.csb.app/) 
+
 - 👯 I’m looking to collaborate on **any projects that use Python and Javascript**
 
 - 👨‍💻 Most of my codes are private but some are available at [https://github.com/slim-python?tab=repositories](https://github.com/slim-python?tab=repositories)
