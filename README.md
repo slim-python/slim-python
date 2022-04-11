@@ -16,6 +16,9 @@
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raprocks&label=Profile%20Visits&color=694c94&style=flat" alt="slim-python" /></p>
+
+
 <h2 align="left" >Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
