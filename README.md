@@ -13,6 +13,7 @@
 - :mailbox: &nbsp;Ask me anything related to **JavaScript** happy to help
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
+- 🔽: &nbsp;Check my Resume Here -> **[Resume]**
 
 <br>
 
@@ -146,6 +147,7 @@
 
 [linkedin]: https://www.linkedin.com/in/itsabhishek "LinkedIn"
 [twitter]: https://twitter.com/slim_python "Twitter"
+[Resume]: https://s3.amazonaws.com/attachments.angel.co/6858562-c9d450bae189a67a5a76a4dd7c9f76f8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20220419%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220419T115216Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=909ec4a9d49b63d71d1394ac1eb25c10fb4e0eae9a4fa2803678843996fd4b9b "Resume"
 
 
 
