@@ -12,7 +12,6 @@
 - :speech_balloon: &nbsp;my work has been published on [Geeksforgeeks](https://www.geeksforgeeks.org/how-to-create-a-meeting-with-zoom-api-in-python/), [Google developers](https://devlibrary.withgoogle.com/products/firebase) and [Hackernoon](https://hackernoon.com/advanced-linux-shell-with-ai-powered-features-g52d35bk) etc
 - :mailbox: &nbsp;Ask me anything related to **JavaScript** happy to help
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
 - 🔽: &nbsp;Check my Resume Here -> **[Resume]**
 
 <br>
@@ -146,7 +145,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/itsabhishek "LinkedIn"
-[twitter]: https://twitter.com/slim_python "Twitter"
 [Resume]: http://52.11.215.163:3000/resume/Full_stack_dev_abhishek.pdf "Resume"
 
 
