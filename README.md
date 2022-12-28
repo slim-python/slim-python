@@ -1,13 +1,13 @@
 
 <h1 align="left" id="Abhishek-title">:wave: Hello there! I'm Abhishek</h1>
-<h3 align="left">I am a Full stack Developer at Stockdaddy </h3>
+<!-- <h3 align="left">I am a Full stack Developer at nowhere (right now) </h3> -->
 
 
 <a >
   <img src="https://github-readme-stats.vercel.app/api?username=slim-python&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Abhishek" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Stock Daddy**
+<!-- - :office: &nbsp;I'm currently working at **No Where** -->
 - :writing_hand: &nbsp; I’m a tech writer and  [tech youtuber](https://www.youtube.com/channel/UCPZwDa33EL_UK3VDZGw_9rg) 
 - :speech_balloon: &nbsp;my work has been published on [Geeksforgeeks](https://www.geeksforgeeks.org/how-to-create-a-meeting-with-zoom-api-in-python/), [Google developers](https://devlibrary.withgoogle.com/products/firebase) and [Hackernoon](https://hackernoon.com/advanced-linux-shell-with-ai-powered-features-g52d35bk) etc
 - :mailbox: &nbsp;Ask me anything related to **JavaScript** happy to help
