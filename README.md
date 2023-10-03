@@ -144,7 +144,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/itsabhishek "LinkedIn"
+[linkedin]: https://www.linkedin.com/in/itsabhisek "LinkedIn"
 [Resume]: https://s3.amazonaws.com/attachments.angel.co/7133001-3506f9d79836b8420e06dc9103fac00d.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20220710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220710T115101Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8c811a7a2b3e7d8917a1913d0f85dbe9e6c299b5e8e25f83dc84bc75d9e0579f "Resume"
 
 
